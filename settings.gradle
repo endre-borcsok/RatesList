@@ -5,5 +5,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "FreeAgent Programming Test"
+rootProject.name = "Example App"
 include ':app'

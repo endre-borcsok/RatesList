@@ -1,7 +1,7 @@
 package com.example.app.di
 
 import android.app.Application
-import com.example.app.ui.FreeAgentApplication
+import com.example.app.ui.ExampleApp
 import dagger.BindsInstance
 import dagger.Component
 import dagger.android.support.AndroidSupportInjectionModule
@@ -22,5 +22,5 @@ interface AppComponent {
         fun build(): AppComponent
     }
 
-    fun inject(app: FreeAgentApplication)
+    fun inject(app: ExampleApp)
 }
