@@ -4,6 +4,10 @@
 
 RatesList is a Forex tracker Android application in which I test certain Android development techniques.
 
+The app calculates the value of EUR for a few selected foreign currenciens based on the given amount and the lates exchange rate.
+
+To see the exchange rates of the last few days, select 2 currencies from the list. 
+
 ## Language
 
 - Kotlin
